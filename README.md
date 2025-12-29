@@ -102,9 +102,3 @@ BTech CSE @ IIIT Bhopal (6th Semester) | Full-Stack Web Developer
 - 🌍 GitHub: https://github.com/anshul-1403  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshul-1403&show_icons=true&theme=tokyonight" />
-</p>
