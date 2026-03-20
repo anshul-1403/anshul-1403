@@ -1,104 +1,86 @@
-<h1 align="center">Hi 👋, I'm Anshul</h1>
-<h3 align="center">
-BTech CSE @ IIIT Bhopal (6th Semester) | Full-Stack Web Developer
-</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://anshul-1403.github.io/" target="_blank">Anshul</a></h1>
+<h3 align="center">🚀 BTech CSE @ IIIT Bhopal (6th Semester) | Full-Stack Web Developer</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshul-1403&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/LeetCode-1725-orange?style=flat&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/CodeChef-4*-brown?style=flat&logo=codechef" alt="CodeChef" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshul-1403&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist&weight=600&size=24&pause=1000&color=5EEAD4&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Problem+Solver;Creative+Thinker;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science student at **IIIT Bhopal**
-- 💻 Full-stack web developer comfortable with both **frontend and backend**
-- 🌱 Currently learning **advanced React patterns, backend architecture, and databases**
-- 🧠 Strong interest in **problem-solving, system design basics, and real-world projects**
-- 🤝 Open to **internships, collaborations, and learning opportunities**
-- ⚡ Fun fact: I enjoy **playing & watching cricket and football**
-
----
-
-## 🏆 Competitive Programming
-
-- ⭐ **CodeChef:** 4★  
-- 🟣 **Codeforces:** Pupil  
-- 🟢 **LeetCode:** 1725 rating  
-- 🧩 Solved **800+ DSA problems** across platforms  
-- 🔥 Maintained **430+ active coding days**
+- 🎓 **B.Tech Computer Science** student at **IIIT Bhopal** (Junior Year)
+- 💻 Passionate **Full-stack developer** with a focus on building scalable web applications.
+- 🌱 Currently diving deep into **Advanced React Patterns**, **System Design**, and **Cloud Infrastructure**.
+- 🧠 I love solving complex problems on **LeetCode** and **Codeforces**.
+- 🤝 Open to **internships**, **freelance projects**, and **open-source collaborations**.
+- ⚡ Fun fact: I'm a die-hard fan of **cricket** and **football**! 🏏⚽
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Technical Arsenal
 
-### Languages
-- C, C++, JavaScript, Python (learning)
+<div align="center">
 
-### Frontend
-- HTML, CSS, JavaScript  
-- React.js, Redux Toolkit  
-- Bootstrap, Material UI  
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css) ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express) ![REST API](https://img.shields.io/badge/-REST%20API-005571?style=flat) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code) |
 
-### Backend
-- Node.js, Express.js  
-- REST APIs, JWT Authentication  
-
-### Databases
-- MongoDB, MySQL, PostgreSQL (Supabase)
-
-### Tools & Platforms
-- Git, GitHub, Postman, Swagger  
-- VS Code, Git Bash  
+</div>
 
 ---
 
-## 🚀 Projects
+### 📊 GitHub Stats & Activity
 
-- 🍔 **Food Delivery Web App**  
-  Full-stack food ordering platform with authentication, cart, orders, and admin APIs  
-  **Tech:** React, Redux, Node.js, Express, MongoDB  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshul-1403&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-1403&layout=compact&theme=tokyonight&hide_langs_below=1" />
+</div>
 
-- 🏨 **Hotel / Travel Booking Website**  
-  Search and booking system with secure backend APIs  
-  **Tech:** React, Node.js, Express, MongoDB  
-
-- 📊 **Backend CRM Case Study (Supabase)**  
-  SQL schema design, RLS policies, and Edge Functions  
-  **Tech:** PostgreSQL, Supabase, TypeScript  
-
-- ⚙️ **Public REST API CLI Tool**  
-  Node.js CLI tool with caching, filters, and error handling  
-
-- 🌐 **Portfolio Website**  
-  Personal portfolio built using HTML, CSS, and JavaScript  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshul-1403&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🏅 Hackathons & Activities
+### 🏆 Achievements
 
-- 🥉 **Smart India Hackathon (College-level internal rounds)**  
-  - 2023: Rank 11  
-  - 2024: Rank 9  
-  - 2025: Rank 5  
-  *(Among ~40–50 teams)*
-
-- 🧪 **Bajaj HackRX Hackathon**  
-  Secured **Rank 247**, worked on backend API development
+- 🟣 **Codeforces:** Pupil
+- ⭐ **CodeChef:** 4★ (Max Rating: 1800+)
+- 🟢 **LeetCode:** 1725 Rating | Top 10%
+- 🧩 **800+ Problems Solved**
+- 🥉 **Smart India Hackathon:** Rank 5 (College-level 2025)
+- 🧪 **Bajaj HackRX:** Rank 247
 
 ---
 
-## 📚 Certifications & Learning
+### 📂 Featured Projects
 
-- 📘 **Data Science, Machine Learning, DL & NLP Bootcamp — Krish Naik (Udemy)** *(Ongoing)*  
-  Hands-on learning with Python, ML fundamentals, Deep Learning, and NLP
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: **anshul.iiitbhopal@gmail.com**  
-- 💼 LinkedIn: https://linkedin.com/in/anshul-059076290  
-- 🌍 GitHub: https://github.com/anshul-1403  
+- [**FoodieDash**](https://github.com/anshul-1403) - Full-stack food delivery app with real-time tracking.
+- [**StayEase**](https://github.com/anshul-1403) - Hotel booking platform with secure payments.
+- [**Portfolio v2**](https://github.com/anshul-1403/new-Portfolio) - Modern 3D portfolio built with React & Three.js.
 
 ---
+
+### 📫 Let's Connect!
+
+<div align="center">
+  <a href="mailto:anshul.iiitbhopal@gmail.com"><img src="https://img.shields.io/badge/Email-anshul.iiitbhopal%40gmail.com-D14836?style=flat&logo=gmail" alt="Email" /></a>
+  <a href="https://linkedin.com/in/anshul-059076290"><img src="https://img.shields.io/badge/LinkedIn-Anshul-0077B5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/anshul-1403"><img src="https://img.shields.io/badge/GitHub-anshul--1403-181717?style=flat&logo=github" alt="GitHub" /></a>
+</div>
+
+<p align="center">
+  <i>"Code is not just about instructions, it's about solving problems."</i> <br>
+  <b>Feel free to fork my repos or reach out for collaboration! 🚀</b>
+</p>
