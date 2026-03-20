@@ -7,6 +7,9 @@
   <a href="https://new-portfolio-weld-delta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20View%203D%20Portfolio-Explore%20Now-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
   </a>
+  <a href="https://drive.google.com/file/d/1kzgPSVCkmer4Jl_LNXrxlrGp6DhSxn_2/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20My%20Resume-Download-6A0DAD?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
 <div align="center">
@@ -92,6 +95,7 @@
   <a href="mailto:anshul.iiitbhopal@gmail.com"><img src="https://img.shields.io/badge/Email-anshul.iiitbhopal%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
   <a href="https://linkedin.com/in/anshul-059076290"><img src="https://img.shields.io/badge/LinkedIn-Anshul-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://github.com/anshul-1403"><img src="https://img.shields.io/badge/GitHub-anshul--1403-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://drive.google.com/file/d/1kzgPSVCkmer4Jl_LNXrxlrGp6DhSxn_2/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-Download-6A0DAD?style=for-the-badge&logo=google-drive" alt="Resume" /></a>
 </div>
 
 <br>
