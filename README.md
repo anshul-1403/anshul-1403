@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=ANSHUL'S+DIGITAL+SPACE;Full-Stack+Web+Developer;3D+Web+Experience;Problem+Solver" alt="Typing SVG" />
-</p>
-
 <h1 align="center">Hi 👋, I'm <a href="https://new-portfolio-weld-delta.vercel.app/" target="_blank">Anshul</a></h1>
-<h4 align="center">🚀 B.Tech CSE @ IIIT Bhopal (6th Semester)</h4>
+<h3 align="center">🚀 B.Tech CSE @ IIIT Bhopal (6th Semester) | Full-Stack Web Developer</h3>
 
 <div align="center">
   <a href="https://new-portfolio-weld-delta.vercel.app/" target="_blank">
@@ -17,11 +13,21 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Views-Live-blue?style=flat-square&logo=github" alt="Views" />
-  <img src="https://img.shields.io/badge/LeetCode-800+%20Solved-FFA116?style=flat-square&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/CodeChef-4*-brown?style=flat-square&logo=codechef" alt="CodeChef" />
-  <img src="https://img.shields.io/badge/Codeforces-Pupil-03470D?style=flat-square&logo=codeforces" alt="Codeforces" />
+  <img src="https://komarev.com/ghpvc/?username=anshul-1403&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://leetcode.com/u/darkhunt14305/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-800+%20Solved-FFA116?style=flat-square&logo=leetcode" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/darkking143" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-4*-brown?style=flat-square&logo=codechef" alt="CodeChef" />
+  </a>
+  <a href="https://codeforces.com/profile/darkking143" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Pupil-03470D?style=flat-square&logo=codeforces" alt="Codeforces" />
+  </a>
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5EEAD4&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Three.js+%26+GSAP+Enthusiast;Problem+Solver;Creative+Thinker;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -69,11 +75,11 @@
 
 ### 🏆 Achievements
 
-- 🟢 **LeetCode:** Solve **800+** problems | **1725** Rating (Top 10% 🌍)
+- 🟢 **[LeetCode](https://leetcode.com/u/darkhunt14305/):** Solve **800+** problems | **1725** Rating (Top 10% 🌍)
 - 🥉 **Smart India Hackathon:** Top-11 Finalist for 3 consecutive years (2023, 2024, 2025)
 - 🧪 **Bajaj HackRX:** Secured National Rank **247**
-- ⭐ **CodeChef:** 4★ Rated Programmer (Max 1800+)
-- 🟣 **Codeforces:** Rated Pupil
+- ⭐ **[CodeChef](https://www.codechef.com/users/darkking143):** 4★ Rated Programmer (Max 1800+)
+- 🟣 **[Codeforces](https://codeforces.com/profile/darkking143):** Rated Pupil
 
 ---
 
