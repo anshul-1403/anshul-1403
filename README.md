@@ -67,8 +67,8 @@
 ### 📂 Featured Projects
 
 - [**FoodieDash**](https://github.com/anshul-1403) - Full-stack food delivery app with real-time tracking.
-- [**StayEase**](https://github.com/anshul-1403) - Hotel booking platform with secure payments.
-- [**Portfolio v2**](https://github.com/anshul-1403/new-Portfolio) - Modern 3D portfolio built with React & Three.js.
+- [**Travelo**](https://github.com/anshul-1403) - Hotel booking platform with secure payments.
+- [**Portfolio v2**](https://new-portfolio-weld-delta.vercel.app/) - Modern 3D portfolio built with React & Three.js.
 
 ---
 
