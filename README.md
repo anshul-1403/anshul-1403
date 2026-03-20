@@ -3,17 +3,19 @@
 <h1 align="center">Hi 👋, I'm <a href="https://new-portfolio-weld-delta.vercel.app/" target="_blank">Anshul</a></h1>
 <h3 align="center">🚀 B.Tech CSE @ IIIT Bhopal (6th Semester) | Full-Stack Web Developer</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://new-portfolio-weld-delta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20View%203D%20Portfolio-Explore%20Now-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
   </a>
   <a href="https://drive.google.com/file/d/1kzgPSVCkmer4Jl_LNXrxlrGp6DhSxn_2/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/📄%20My%20Resume-Download-6A0DAD?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
-</p>
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshul-1403&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-Counting...-0e75b6?style=flat-square&logo=github" alt="Profile Views" />
   <img src="https://img.shields.io/badge/LeetCode-800+%20Solved-FFA116?style=flat-square&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/CodeChef-4*-brown?style=flat-square&logo=codechef" alt="CodeChef" />
 </div>
