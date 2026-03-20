@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anshul-1403&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
   <a href="https://leetcode.com/u/darkhunt14305/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-800+%20Solved-FFA116?style=flat-square&logo=leetcode" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-600+%20Solved-FFA116?style=flat-square&logo=leetcode" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/darkking143" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-4*-brown?style=flat-square&logo=codechef" alt="CodeChef" />
@@ -36,7 +36,7 @@
 - 🎓 **B.Tech Computer Science** student at **Indian Institute of Information Technology (IIIT) Bhopal** (Junior Year).
 - 💻 Passionate **Full-stack developer** specializing in building immersive 3D web experiences and scalable backends.
 - 🌱 Currently mastering **Advanced React Patterns**, **System Design**, and **Cloud Infrastructure**.
-- 🧠 Solve complex problems on **LeetCode** (800+ solved, Top 10%) & **Codeforces**.
+- 🧠 Solve complex problems on **LeetCode** (600+ solved, Top 10%) & **Codeforces**.
 - 🤝 Open to **internships**, **freelance projects**, and **open-source collaborations**.
 - ⚡ Fun fact: I'm a die-hard fan of **cricket** and **football**! 🏏⚽
 
@@ -75,7 +75,7 @@
 
 ### 🏆 Achievements
 
-- 🟢 **[LeetCode](https://leetcode.com/u/darkhunt14305/):** Solve **800+** problems | **1725** Rating (Top 10% 🌍)
+- 🟢 **[LeetCode](https://leetcode.com/u/darkhunt14305/):** Solve **600+** problems | **1725** Rating (Top 10% 🌍)
 - 🥉 **Smart India Hackathon:** Top-11 Finalist for 3 consecutive years (2023, 2024, 2025)
 - 🧪 **Bajaj HackRX:** Secured National Rank **247**
 - ⭐ **[CodeChef](https://www.codechef.com/users/darkking143):** 4★ Rated Programmer (Max 1800+)
