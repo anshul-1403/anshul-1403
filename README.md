@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 B.Tech CSE @ IIIT Bhopal (7th Semester) | Full-Stack Web Developer
+  🚀 B.Tech CSE @ IIIT Bhopal | Full-Stack Web Developer
 </h3>
 
 <div align="center">
@@ -55,7 +55,7 @@
 - 💻 Full-stack developer focused on **scalable backends, modern web applications, and immersive 3D experiences**
 - 🚀 Experienced with **React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Prisma, and Supabase**
 - 🧠 Solved **600+ problems on LeetCode** with a **1725 rating**
-- 🏆 **4★ CodeChef** rated programmer
+- ⭐ **4★ CodeChef** rated programmer
 - 🌱 Currently improving my knowledge of **System Design, Backend Architecture, Cloud Infrastructure, and Advanced React**
 - 🤝 Open to **internships, freelance opportunities, open-source contributions, and collaborations**
 - ⚡ Fun fact: I'm a die-hard fan of **cricket and football**! 🏏⚽
@@ -136,9 +136,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anshul-1403&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anshul-1403&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
 
 </div>
 
@@ -146,7 +146,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=anshul-1403&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 
 </div>
 
@@ -184,13 +184,15 @@
 
 ## 💡 Currently Learning
 
+<div align="center">
+
 ```text
 Advanced Backend Architecture
-        ↓
-System Design
-        ↓
-Distributed Systems
-        ↓
-Cloud Infrastructure
-        ↓
-Scalable Full-Stack Applications
+          ↓
+     System Design
+          ↓
+   Distributed Systems
+          ↓
+  Cloud Infrastructure
+          ↓
+Scalable Applications
