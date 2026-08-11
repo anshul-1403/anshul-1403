@@ -196,3 +196,50 @@ Advanced Backend Architecture
   Cloud Infrastructure
           ↓
 Scalable Applications
+```
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+<a href="mailto:anshul.iiitbhopal@gmail.com">
+  <img src="https://img.shields.io/badge/Email-anshul.iiitbhopal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://linkedin.com/in/anshul-059076290">
+  <img src="https://img.shields.io/badge/LinkedIn-Anshul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/anshul-1403">
+  <img src="https://img.shields.io/badge/GitHub-anshul--1403-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://drive.google.com/file/d/1kzgPSVCkmer4Jl_LNXrxlrGp6DhSxn_2/view?usp=drivesdk">
+  <img src="https://img.shields.io/badge/Resume-Download-6A0DAD?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<i>"Code is not just about instructions, it's about solving problems."</i>
+
+<br>
+
+<b>Feel free to explore my repositories or reach out for collaboration! 🚀</b>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,100:6366F1&height=120&section=footer" />
+
+</div>
